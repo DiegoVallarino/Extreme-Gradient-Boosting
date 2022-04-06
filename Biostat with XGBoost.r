@@ -4,7 +4,7 @@ require(xgboost)
 require(Matrix)
 require(data.table)
 
-# Looking at the raw data¶
+# Looking at the raw data
 
 data("veteran")
 head(veteran)
